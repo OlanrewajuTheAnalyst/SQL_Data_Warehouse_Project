@@ -9,6 +9,7 @@ CRM / ERP → Bronze → Silver → Gold → Dashboard
 - **Bronze:** Raw data loaded from CSV files.
 - **Silver:** Data cleaning, validation, standardization, and transformation.
 - **Gold:** Business-ready views organized using a Star Schema.
+![Data_Architecture](https://github.com/OlanrewajuTheAnalyst/SQL_Data_Warehouse_Project/blob/main/1.png)
 
 ## Dataset
 The project uses CRM and ERP CSV files containing:
