@@ -1,9 +1,9 @@
 # SQL_Data_Warehouse_Project & Analytics_Project
 
-## Overview
+## 🎯 Overview
 An end-to-end SQL Server Data Warehouse project that integrates CRM and ERP data, transforms raw data into business-ready datasets, and supports SQL analysis and BI reporting.
 
-### Architecture
+### 🏗️ Architecture    
 CRM / ERP → Bronze → Silver → Gold → Dashboard
 
 - **Bronze:** Raw data loaded from CSV files.
@@ -11,7 +11,7 @@ CRM / ERP → Bronze → Silver → Gold → Dashboard
 - **Gold:** Business-ready views organized using a Star Schema.
 ![Data_Architecture](https://github.com/OlanrewajuTheAnalyst/SQL_Data_Warehouse_Project/blob/main/1.png)
 
-## Dataset
+## 🧩 Dataset
 The project uses CRM and ERP CSV files containing:
 - Customers
 - Products
@@ -19,7 +19,7 @@ The project uses CRM and ERP CSV files containing:
 - Product categories
 - Customer locations
 
-## Tools
+## ⚙ Tools
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
 - T-SQL
@@ -40,7 +40,7 @@ The project uses CRM and ERP CSV files containing:
 6. Used SQL queries to analyze sales and customer/product performance.
 7. Connected the Gold layer to a BI dashboard for reporting.
 
-## Data Quality
+## 📈 Data Quality
 Applied techniques including:
 - Duplicate removal
 - String cleaning
@@ -63,7 +63,6 @@ Built a structured and reusable data warehouse that transforms raw CRM and ERP d
 6. Create the Gold views.
 7. Run the analysis queries or connect the Gold layer to Power BI.
 
-## Skills
-
+## 🛠️ Skills Demonstrated
 **SQL Server · T-SQL · Data Warehousing · ETL · Data Cleaning · Data Transformation · Data Integration · Stored Procedures · Star Schema · SQL Views · Power BI**
 
