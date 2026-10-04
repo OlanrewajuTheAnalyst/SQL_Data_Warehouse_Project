@@ -12,7 +12,6 @@ CRM / ERP → Bronze → Silver → Gold → Dashboard
 - **Silver:** Data cleaning, validation, standardization, and transformation.
 - **Gold:** Business-ready views organized using a Star Schema.
 ![Data_Architecture](https://github.com/OlanrewajuTheAnalyst/SQL_Data_Warehouse_Project/blob/main/1.png)
-
 ### 🎯 What I Built
 - Integrated CRM and ERP datasets covering customers, products, sales, and locations.
 - Built a three-layer data warehouse architecture: Bronze, Silver, and Gold.
@@ -26,7 +25,7 @@ CRM / ERP → Bronze → Silver → Gold → Dashboard
 - Created SQL views and analytical queries for sales, customer, and product analysis.
 - Connected the Gold layer to Power BI for reporting.
 
-  ## 📈 Data Quality
+## 📈 Data Quality
 Applied techniques including:
 - Duplicate removal
 - String cleaning
